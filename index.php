@@ -3,6 +3,6 @@
 <title>Pagina iniziale</title>
 </head>
 <body>
-<?php echo 'primo file'; ?>
+<?php echo 'primo file modificato'; ?>
 </body>
 </html>
